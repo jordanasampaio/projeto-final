@@ -1,0 +1,26 @@
+.Sobre {
+  display: flex;
+  margin: 30px auto;
+}
+
+.Sobre__Left {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  padding: 20px;
+  padding-left: 0;
+}
+
+.Sobre__Right {
+  align-items: flex-start;
+  display: flex;
+  flex: 2;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  padding-right: 0;
+}
+
+.Sobre__Image {
+  width: 100%;
+}

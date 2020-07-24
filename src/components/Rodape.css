@@ -1,0 +1,16 @@
+.Rodape {
+  align-items: center;
+  color: white;
+  display: flex;
+  font-size: 2em;
+  justify-content: center;
+  padding: 20px;
+}
+
+.Rodape .Social-Button {
+  margin: 20px;
+}
+
+.Rodape .Social-Button:hover {
+  background-color:#ffd8fb;
+}
